@@ -17,7 +17,6 @@ Feature: Account Summary checks
       | Checking    |
       | Savings     |
       | Loan        |
-      | Savings     |
       | Credit Card |
       | Brokerage   |
     Then Validate that columns have followings
